@@ -11,7 +11,7 @@
       ],
       "tileSize": 256,
       "maxzoom": 17,
-      "minzoom": 10
+      "minzoom": 2
     }
   },
   "layers": [{
