@@ -1,7 +1,6 @@
 {
   "version": 8,
   "name": "GSI Tiles",
-  "attribution": "aaaa",
   "glyphs": "https://smellman.github.io/creating_tiles_with_global_map_support_files/2015/mapbox_vector_tile_demo/demosites/fonts/{fontstack}/{range}.pbf",
   "sprite": "https://smellman.github.io/creating_tiles_with_global_map_support_files/2015/mapbox_vector_tile_demo/demosites/maki-sprites/sprite",
   "sources": {
