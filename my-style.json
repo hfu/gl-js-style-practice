@@ -9,7 +9,9 @@
       "tiles": [
         "https://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png"
       ],
-      "tileSize": 256
+      "tileSize": 256,
+      "maxzoom": 17,
+      "minzoom": 10
     }
   },
   "layers": [{
